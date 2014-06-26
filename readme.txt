@@ -31,8 +31,9 @@ OR
 
 4. Activate through the `Plugins` menu in WordPress
 
-== Frequently Asked Questions ==
+== SUPPORT ==
 
+please send all support inquiries over Twitter to @wpplugindevcom .
 
 
 
